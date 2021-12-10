@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DiceRoll</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="roll">Roll</string>
+    <string name="developers">developers</string>
+    <string name="dice_roll">dice roll</string>
+    <string name="about">about</string>
+</resources>
